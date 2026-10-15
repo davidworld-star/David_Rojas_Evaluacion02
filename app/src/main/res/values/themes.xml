@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme forced to Light -->
+    <style name="Base.Theme.NewsApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/cyan_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.NewsApp" parent="Base.Theme.NewsApp" />
+</resources>

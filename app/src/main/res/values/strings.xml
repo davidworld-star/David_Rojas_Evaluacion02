@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- Login -->
+    <string name="login_label_email">Correo</string>
+    <string name="login_hint_email">name@example.com</string>
+    <string name="login_label_password">Contraseña</string>
+    <string name="login_btn_enter">INGRESAR</string>
+    <string name="login_btn_register">REGISTRAR</string>
+    <string name="login_error_empty_email">Ingrese su correo electrónico</string>
+    <string name="login_error_invalid_email">Ingrese un correo válido</string>
+    <string name="login_error_empty_password">Ingrese su contraseña</string>
+    <string name="login_error_short_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="login_toast_register_simulated">Registro simulado: ya puedes ingresar</string>
+
+    <!-- Noticias -->
+    <string name="news_title">Noticias</string>
+    <string name="news_1_title">Apple Vision Pro</string>
+    <string name="news_2_title">Meta Glasses</string>
+    <string name="news_description_sample">This 80-foot-tall waterfall on the coast of Big Sur in central California that flows year-round from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel.</string>
+    <string name="news_content_description_profile">Ir al perfil</string>
+    <string name="news_content_description_share">Compartir noticia</string>
+    <string name="news_share_subject">Noticias</string>
+    <string name="news_share_title">Compartir noticia</string>
+    <string name="news_share_content">Apple Vision Pro &amp; Meta Glasses\n\nThis 80-foot-tall waterfall on the coast of Big Sur in central California that flows year-round from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel.\n\nhttps://developer.android.com/training/sharing/</string>
+
+    <!-- Perfil -->
+    <string name="profile_title">Perfil</string>
+    <string name="profile_name">David Rojas Garcia</string>
+    <string name="profile_location">Trujillo</string>
+    <string name="profile_option_info">Información</string>
+    <string name="profile_option_notifications">Notificaciones</string>
+    <string name="profile_option_favorites">Favoritos</string>
+    <string name="profile_btn_logout">CERRAR SESION</string>
+
+    <!-- Menu opciones -->
+    <string name="menu_privacy">Privacidad</string>
+    <string name="menu_contacts">Contactos</string>
+    <string name="menu_central">Central</string>
+    <string name="toast_central">Central: +51 1 987987987</string>
+
+    <!-- Privacidad -->
+    <string name="privacy_title">Privacidad</string>
+    <string name="privacy_heading">Reglas de Privacidad</string>
+    <string name="privacy_p1">La Política se aplica a todos los datos personales que los usuarios proporcionen de manera directa o a través de una tercera persona (encargado) cuando éste actúe según las instrucciones del usuario.</string>
+    <string name="privacy_p2">Los datos personales de los usuarios que emplean nuestros canales web son almacenados en sus correspondientes bancos de datos, los cuales se encuentran registrados ante la Autoridad Nacional de Protección de Datos Personales.</string>
+
+    <!-- Contactos -->
+    <string name="contacts_title">Contactos</string>
+    <string name="contacts_heading">Listado de Contactos</string>
+    <string name="contacts_prompt">Mantén presionado un contacto para opciones</string>
+    <string name="menu_context_call">Llamar</string>
+    <string name="menu_context_send_message">Enviar mensaje</string>
+    <string name="toast_no_app">No hay una app disponible para realizar esta acción</string>
+
+    <!-- Descriptions -->
+    <string name="content_description_logo">Logo NEWS</string>
+    <string name="content_description_back">Regresar</string>
+    <string name="content_description_news_image">Imagen de noticia</string>
+    <string name="content_description_avatar">Avatar de usuario</string>
+</resources>
